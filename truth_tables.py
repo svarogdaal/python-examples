@@ -1,6 +1,6 @@
 # Author: Silviu Velica
 # Date: August 2016
-# Description:
+# Description: 
 #	This is a program that draws the truth table for a propositional logic
 #	formula given by the user. It translates the pretty standard syntax 
 #	in which the user writes the formula to the syntax of python functions,
